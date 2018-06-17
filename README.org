@@ -12,4 +12,5 @@ used for tokenizing text reviews are:
 
 - bag-of-word (word counting)
 - n-gram
-- term frequency-inverse document frequency
+- term frequency-inverse document frequency normalization
+- L2 normalization
