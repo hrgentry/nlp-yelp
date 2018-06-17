@@ -1,0 +1,15 @@
+* Notebook for NLP Feature Engineering
+
+
+Based on Alice Zheng's great book on feature engineering, you can find
+Alice's repo [[https://github.com/alicezheng/feature-engineering-book][here]].
+
+This is notebook used the yelp challenge dataset to illustrate feature
+extraction and engineering for natural language processing (NLP). A
+very simple logistic regression model was used to classify the
+categories business type, i.e., =['Nightlife', 'Restraunts']=. Methods
+used for tokenizing text reviews are:
+
+- bag-of-word (word counting)
+- n-gram
+- term frequency-inverse document frequency
